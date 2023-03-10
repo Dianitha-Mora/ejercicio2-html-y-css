@@ -1,0 +1,23 @@
+.style{
+    margin: auto; 
+    width: 300px;
+    height:350px;
+    border:3px;
+    border-radius:20px;
+    background:-webkit-linear-gradient(#bd09b7 , #6b4cf5);
+    padding:20px;
+}
+.fondo{
+    background-color: aliceblue;
+}
+.email{
+    padding: 7px 20%;
+    margin-top: 8px;
+    margin-block-end: 8px;
+}
+.boton{
+    padding: 6px 10%;
+    margin-top: 5px;
+    margin-block-end: 5px;
+    margin-left: 180px;
+}
